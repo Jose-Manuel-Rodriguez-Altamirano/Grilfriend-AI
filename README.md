@@ -1,2 +1,2 @@
-# Grilfriend-AI-Frontend-master
+# Grilfriend-AI
  CHAT BOT 001
